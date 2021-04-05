@@ -4,7 +4,7 @@ I go to *UCSD*
 In the words of Heath Ledgers Joker:
 > Why so serious?
 
-I know how to code, for instance I can right 'System.println' to print something to output in Java
+I know how to code, for instance I can right `System.println` to print something to output in Java
 Look at this funny [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
 
 [Dont press on this](other.md)
