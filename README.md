@@ -1,2 +1,2 @@
 # CSE110Lab1
-Javier's User Page
+Java is a good starting point for learning code
